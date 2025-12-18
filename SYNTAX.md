@@ -1,4 +1,4 @@
-# TLML — Syntax Reference ✨
+# TLML Syntax Reference 
 
 ---
 
@@ -199,12 +199,3 @@ Extra hidden text here!
 /endcollapse
 ```
 
----
-
-## ✅ Notes for developers
-
-* 🎨 Colors accept both names and hex.
-* 🎵 Media placeholders let you add assets later.
-* 🔒 Exporters should sanitize input.
-
-✨ That’s it — TLML is lightweight, fun, and ready to use! 🚀
