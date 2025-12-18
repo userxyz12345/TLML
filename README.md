@@ -35,17 +35,9 @@ Just open any TLML file → click **Preview** → see the rendered HTML instantl
 
 ---
 
-## 🗺️ Roadmap
-
 - ✅ Core syntax (headings, lists, formatting)  
 - ✅ Tables, collapsible sections, colors  
 - ✅ VS Code live preview → HTML  
-
-Coming next:  
-- 🔜 Syntax highlighting in editor  
-- 🔜 Custom themes for preview  
-- 🔜 More export formats  
-
 ---
 
 ## 📜 License
