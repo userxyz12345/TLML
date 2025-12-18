@@ -33,7 +33,7 @@ Use leading slashes to indicate heading level. One slash = H1, two = H2, three =
 
 ## 2. ✍️ Paragraphs and line breaks
 
-A blank line separates paragraphs. To force a single-line break inside a paragraph, end the line with two spaces.
+A blank line separates paragraphs. To force a singleline break inside a paragraph, end the line with two spaces.
 
 ```
 This is a paragraph.  
