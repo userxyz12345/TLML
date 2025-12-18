@@ -50,4 +50,4 @@ Coming next:
 
 ## 📜 License
 
-Released under the **MIT licence **
+Released under the **MIT licence**
