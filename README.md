@@ -1,15 +1,13 @@
 # 🚀 TLML (TLML (turbo lightweight markup language)
 
-![TLML Preview Screenshot](https://copilot.microsoft.com/th/id/BCO.8afa690a-70a4-4567-92c1-af7d64706ba9.png)
-
-**TLML — Lightweight markup made simple, built with passion!** ✨  
+**TLML Lightweight markup made simple, built with passion!** 
 
 TLML is a custom **lightweight markup language** that converts to **HTML**.  
 It’s perfect for **documentation, articles, novels, notes, and webpages**.  
 
 ---
 
-## ✨ Features
+## Features
 
 - 📑 Headings, lists, tables  
 - 🔤 Bold, italic, inline code  
