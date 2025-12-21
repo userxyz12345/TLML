@@ -1,4 +1,4 @@
-# 🚀 TLML (TLML (turbo lightweight markup language)
+#  TLML (TLML (turbo lightweight markup language)
 
 **TLML Lightweight markup made simple, built with passion!** 
 
@@ -16,7 +16,7 @@ It’s perfect for **documentation, articles, novels, notes, and webpages**.
 - 🖼️ Media support (basic embeds)  
 - ⚡ Simple **HTML export**  
 
-📌 **Note:** TLML currently only converts to HTML.  
+ **Note:** TLML currently only converts to HTML.  
 
 ---
 
